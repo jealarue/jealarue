@@ -4,7 +4,7 @@
 ```python
 class Bio:
     def __init__(self):
-        self.name = "Jesse laRue"
+        self.name = "Jesse LaRue"
         self.title = "Aspiring Data analyst"
         self.location = "Nampa, USA"
         self.interests = ["Coding", "Collaboration", "Dog Person", "Video Games"]
