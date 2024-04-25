@@ -11,5 +11,5 @@ class Bio:
     def __init__(self):
         self.name = "Jesse LaRue"
         self.title = "Aspiring Data Alalyst"
-        self.location = "Nampa, Country"
+        self.location = "Nampa, USA"
         self.interests = ["Coding", "Collaboration", "Dogs", "Video Games"]
